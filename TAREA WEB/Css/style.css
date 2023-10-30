@@ -1,0 +1,51 @@
+
+  h1{
+      background-color: rgb(92, 187, 187);
+      padding: 30px;
+      
+  }
+  header nav li {
+      display: inline-block;
+      margin-right: 30px; 
+  }
+
+  table{
+      width: 50%; 
+    }  
+  th{
+      background-color: #f2f2f2;
+    }
+  #navegacion {
+      background-color: steelblue;
+      text-align: center;
+    }
+  #navegacion, a {
+      color: #fff;
+      padding: 0.5em ;
+      text-decoration: none;
+      
+    }
+  #navegacion, a:hover {
+    color:aqua;
+   }
+   table,tr,td{
+    border: 2px solid #ccc;
+    
+   }
+   #nave {
+    color:#1a1a1a
+   }
+   aside{
+    background-color: #ccc;
+    width: 50%;
+    height: auto;
+    padding: 1em;
+   }
+   footer{
+    color: #fff;
+    background-color: rgb(92, 187, 187);
+    text-align: center;
+    padding: 5px;
+   }
+
+
